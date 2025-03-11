@@ -18,7 +18,7 @@ programa
 		escreva("Digite o primeiro número: \n")
 		leia(num4)
 
-		se (num1 > num2 e num3 > num1 ou num4 > num3){
+		se (num1 > num2 e num3 > num1 e num4 > num3){
 			maior = num4
 			}
 		senao se(num1 > num2 e num3 > num1){
